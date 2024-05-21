@@ -26,6 +26,9 @@ package Java;
     int b=2;
 
     b +=a; //b=b+a so b = 2+4 = 6
+    int b1 = a++;
+System.out.println("Value of b is " + b );
+System.out.println("Value of b1 is " + b1 );
 
 }
 
