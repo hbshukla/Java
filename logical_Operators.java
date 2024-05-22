@@ -8,7 +8,10 @@ public static void main(String[] args)
  {
     boolean a = true;
     boolean b = false;
-System.out.println(a|b); // Logical OR operation
+int p=15 ;
+int q=10;
+    System.out.println(a|b); // Logical OR operation
+System.out.println(+(p|q));
 
 //----------------------------------------------
 
